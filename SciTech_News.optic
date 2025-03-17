@@ -61,5 +61,11 @@ Rule {
   Matches {
     Site("|*theverge.com*|")
   },
+  Matches {
+    Site("|*huggingface.co*|")
+  },
+  Matches {
+    Site("|*anthropic.com*|")
+  },
   Action(Boost(0))
 };
