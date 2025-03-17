@@ -1,0 +1,43 @@
+DiscardNonMatching;
+
+Like(Site("techspot.com"));
+Like(Site("techwalla.com"));
+Like(Site("mentalfloss.com"));
+Like(Site("atlasobscura.com"));
+Like(Site("pnas.org"));
+Like(Site("blog.ycombinator.com"));
+Like(Site("sci.news"));
+
+Rule {
+	Matches {
+    Site("|the-decoder.com|")
+  },
+  Matches {
+    Site("|towardsdatascience.com|")
+  },
+  Matches {
+    Site("|futurity.org|")
+  },
+	Matches {
+		Site("|livescience.com|")
+	},
+	Matches {
+    Site("|scitechdaily.com|")
+  },
+  Matches {
+    Site("|sciencealert.com|")
+  },
+  Matches {
+    Site("|quantamagazine.com|")
+  },
+	Matches {
+		Site("|lifeboat.org|")
+	},
+	Matches {
+		Site("|iflscience.com|")
+	},
+	Matches {
+		Site("|thoughtco.com|")
+	},
+	Action(Boost(0))
+};
