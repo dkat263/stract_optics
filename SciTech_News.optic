@@ -11,7 +11,7 @@ Like(Site("|news.ycombinator.com|"));
 
 Rule {
   Matches {
-    Site("the-decoder.com")
+    Like(Site("the-decoder.com"))
   },
   Matches {
     Site("towardsdatascience.com")
