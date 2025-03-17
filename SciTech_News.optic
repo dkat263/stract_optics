@@ -40,4 +40,4 @@ Rule {
     Site("|thoughtco.com|")
   },
   Action(Boost(0))
-};
+}
