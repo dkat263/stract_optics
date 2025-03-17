@@ -51,6 +51,9 @@ Rule {
   },
   Matches {
     Site("|*scantocomputer.com*|")
-  }  
+  },
+  Matches {
+    Site("|*youtube.com*|")
+  },
   Action(Boost(0))
 };
