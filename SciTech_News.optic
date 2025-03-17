@@ -7,37 +7,38 @@ Like(Site("|atlasobscura.com|"));
 Like(Site("|pnas.org|"));
 Like(Site("|blog.ycombinator.com|"));
 Like(Site("|sci.news|"));
+Like(Site("|news.ycombinator.com|"));
 
 Rule {
   Matches {
     Site("the-decoder.com")
   },
   Matches {
-    Site("|towardsdatascience.com|")
+    Site("towardsdatascience.com")
   },
   Matches {
-    Site("|futurity.org|")
+    Site("futurity.org")
   },
   Matches {
-    Site("|livescience.com|")
+    Site("livescience.com")
   },
   Matches {
-    Site("|scitechdaily.com|")
+    Site("scitechdaily.com")
   },
   Matches {
     Site("sciencealert.com")
   },
   Matches {
-    Domain("quantamagazine.com")
+    Site("quantamagazine.com")
   },
   Matches {
-    Domain("lifeboat.org")
+    Site("lifeboat.org")
   },
   Matches {
-    Domain("iflscience.com")
+    Site("iflscience.com")
   },
   Matches {
-    Site("|thoughtco.com|")
+    Site("thoughtco.com")
   },
   Action(Boost(0))
 };
