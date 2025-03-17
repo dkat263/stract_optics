@@ -40,4 +40,4 @@ Rule {
     Url("|thoughtco.com|")
   },
   Action(Boost(0))
-}
+};
