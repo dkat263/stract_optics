@@ -11,34 +11,34 @@ Like(Site("|news.ycombinator.com|"));
 
 Rule {
   Matches {
-    Like(Site("the-decoder.com"))
+    Like(Site("|the-decoder.com|"))
   },
   Matches {
-    Site("towardsdatascience.com")
+    Like(Site("|towardsdatascience.com|"))
   },
   Matches {
-    Site("futurity.org")
+    Like(Site("|futurity.org|"))
   },
   Matches {
-    Site("livescience.com")
+    Like(Site("|livescience.com|"))
   },
   Matches {
-    Site("scitechdaily.com")
+    Like(Site("|scitechdaily.com|"))
   },
   Matches {
-    Site("sciencealert.com")
+    Like(Site("|sciencealert.com|"))
   },
   Matches {
-    Site("quantamagazine.com")
+    Like(Site("|quantamagazine.com|"))
   },
   Matches {
-    Site("lifeboat.org")
+    Like(Site("|lifeboat.org|"))
   },
   Matches {
-    Site("iflscience.com")
+    Like(Site("|iflscience.com|"))
   },
   Matches {
-    Site("thoughtco.com")
+    Like(Site("|thoughtco.com|"))
   },
   Action(Boost(0))
 };
