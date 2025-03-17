@@ -58,5 +58,8 @@ Rule {
   Matches {
     Site("|*theinformation.com*|")
   },
+  Matches {
+    Site("|*theverge.com*|")
+  },
   Action(Boost(0))
 };
