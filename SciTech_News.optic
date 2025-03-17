@@ -10,7 +10,7 @@ Like(Site("|sci.news|"));
 
 Rule {
   Matches {
-    Site("|the-decoder.com|")
+    Site("the-decoder.com")
   },
   Matches {
     Site("|towardsdatascience.com|")
@@ -25,16 +25,16 @@ Rule {
     Site("|scitechdaily.com|")
   },
   Matches {
-    Site("|sciencealert.com|")
+    Site("sciencealert.com")
   },
   Matches {
-    Site("|quantamagazine.com|")
+    Domain("quantamagazine.com")
   },
   Matches {
-    Site("|lifeboat.org|")
+    Domain("lifeboat.org")
   },
   Matches {
-    Site("|iflscience.com|")
+    Domain("iflscience.com")
   },
   Matches {
     Site("|thoughtco.com|")
