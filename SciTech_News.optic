@@ -10,34 +10,34 @@ Like(Site("sci.news"));
 
 Rule {
   Matches {
-    Site("|the-decoder.com|")
+    Url("|the-decoder.com|")
   },
   Matches {
-    Site("|towardsdatascience.com|")
+    Url("|towardsdatascience.com|")
   },
   Matches {
-    Site("|futurity.org|")
+    Url("|futurity.org|")
   },
   Matches {
-    Site("|livescience.com|")
+    Url("|livescience.com|")
   },
   Matches {
-    Site("|scitechdaily.com|")
+    Url("|scitechdaily.com|")
   },
   Matches {
-    Site("|sciencealert.com|")
+    Url("|sciencealert.com|")
   },
   Matches {
-    Site("|quantamagazine.com|")
+    Url("|quantamagazine.com|")
   },
   Matches {
-    Site("|lifeboat.org|")
+    Url("|lifeboat.org|")
   },
   Matches {
-    Site("|iflscience.com|")
+    Url("|iflscience.com|")
   },
   Matches {
-    Site("|thoughtco.com|")
+    Url("|thoughtco.com|")
   },
   Action(Boost(0))
-};
+}
