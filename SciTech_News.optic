@@ -10,34 +10,34 @@ Like(Site("sci.news"));
 
 Rule {
   Matches {
-    Domain("|the-decoder.com|")
+    Site("|the-decoder.com|")
   },
   Matches {
-    Domain("|towardsdatascience.com|")
+    Site("|towardsdatascience.com|")
   },
   Matches {
-    Domain("|futurity.org|")
+    Site("|futurity.org|")
   },
   Matches {
-    Domain("|livescience.com|")
+    Site("|livescience.com|")
   },
   Matches {
-    Domain("|scitechdaily.com|")
+    Site("|scitechdaily.com|")
   },
   Matches {
-    Domain("|sciencealert.com|")
+    Site("|sciencealert.com|")
   },
   Matches {
-    Domain("|quantamagazine.com|")
+    Site("|quantamagazine.com|")
   },
   Matches {
-    Domain("|lifeboat.org|")
+    Site("|lifeboat.org|")
   },
   Matches {
-    Domain("|iflscience.com|")
+    Site("|iflscience.com|")
   },
   Matches {
-    Domain("|thoughtco.com|")
+    Site("|thoughtco.com|")
   },
   Action(Boost(0))
 };
