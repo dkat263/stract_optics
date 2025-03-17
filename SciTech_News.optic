@@ -67,5 +67,8 @@ Rule {
   Matches {
     Site("|*anthropic.com*|")
   },
+  Matches {
+    Site("|*scienmag.com*|")
+  },
   Action(Boost(0))
 };
