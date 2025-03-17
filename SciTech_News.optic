@@ -9,7 +9,7 @@ Like(Site("blog.ycombinator.com"));
 Like(Site("sci.news"));
 
 Rule {
-	Matches {
+  Matches {
     Site("|the-decoder.com|")
   },
   Matches {
@@ -18,10 +18,10 @@ Rule {
   Matches {
     Site("|futurity.org|")
   },
-	Matches {
-		Site("|livescience.com|")
-	},
-	Matches {
+  Matches {
+    Site("|livescience.com|")
+  },
+  Matches {
     Site("|scitechdaily.com|")
   },
   Matches {
@@ -30,14 +30,14 @@ Rule {
   Matches {
     Site("|quantamagazine.com|")
   },
-	Matches {
-		Site("|lifeboat.org|")
-	},
-	Matches {
-		Site("|iflscience.com|")
-	},
-	Matches {
-		Site("|thoughtco.com|")
-	},
-	Action(Boost(0))
+  Matches {
+    Site("|lifeboat.org|")
+  },
+  Matches {
+    Site("|iflscience.com|")
+  },
+  Matches {
+    Site("|thoughtco.com|")
+  },
+  Action(Boost(0))
 };
