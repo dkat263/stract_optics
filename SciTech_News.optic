@@ -26,7 +26,7 @@ Rule {
     Site("|scitechdaily.com|")
   },
   Matches {
-    Site("*|sciencealert.com|*")
+    Site("|*sciencealert.com*|")
   },
   Matches {
     Site("|quantamagazine.com|")
@@ -35,10 +35,10 @@ Rule {
     Site("|lifeboat.org|")
   },
   Matches {
-    Site("*|iflscience.com|*")
+    Site("|*iflscience.com*|")
   },
   Matches {
-    Site("*|thoughtco.com|*")
+    Site("|*thoughtco.com*|")
   },
   Matches {
     Site("|pnas.org|")
