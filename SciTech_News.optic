@@ -20,13 +20,13 @@ Rule {
     Like(Site("|futurity.org|"))
   },
   Matches {
-    Like(Site("|livescience.com|"))
+    Like(Site("livescience.com"))
   },
   Matches {
     Like(Site("|scitechdaily.com|"))
   },
   Matches {
-    Like(Site("|sciencealert.com|"))
+    Like(Site("sciencealert.com"))
   },
   Matches {
     Like(Site("|quantamagazine.com|"))
@@ -35,7 +35,7 @@ Rule {
     Like(Site("|lifeboat.org|"))
   },
   Matches {
-    Like(Site("|iflscience.com|"))
+    Like(Site("iflscience.com"))
   },
   Matches {
     Like(Site("|thoughtco.com|"))
