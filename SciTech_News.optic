@@ -70,5 +70,5 @@ Rule {
   Matches {
     Site("|*scienmag.com*|")
   },
-  Action(Boost(0))
+  Action(Boost(1))
 };
