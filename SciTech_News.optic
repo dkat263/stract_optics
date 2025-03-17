@@ -53,7 +53,7 @@ Rule {
     Site("|*scantocomputer.com*|")
   },
   Matches {
-    Site("|*youtube.com*|")
+    Site("|*wolframalpha.com*|")
   },
   Action(Boost(0))
 };
