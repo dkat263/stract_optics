@@ -55,5 +55,8 @@ Rule {
   Matches {
     Site("|*wolframalpha.com*|")
   },
+  Matches {
+    Site("|*theinformation.com*|")
+  },
   Action(Boost(0))
 };
