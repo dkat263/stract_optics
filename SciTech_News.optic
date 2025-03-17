@@ -47,7 +47,10 @@ Rule {
     Site("|*sci.news*|")
   },
   Matches {
-    Site("|news.ycombinator.com|")
+    Site("|*news.ycombinator.com*|")
   },
+  Matches {
+    Site("|*scantocomputer.com*|")
+  }  
   Action(Boost(0))
 };
