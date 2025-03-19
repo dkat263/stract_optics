@@ -17,7 +17,7 @@ Rule {
     Site("|towardsdatascience.com|")
   },
   Matches {
-    Domain("|futurity.org|")
+    Site("|futurity.org|")
   },
   Matches {
     Site("|livescience.com|")
@@ -32,7 +32,7 @@ Rule {
     Site("|quantamagazine.com|")
   },
   Matches {
-    Domain("|lifeboat.org|")
+    Site("|lifeboat.org|")
   },
   Matches {
     Site("|iflscience.com|")
