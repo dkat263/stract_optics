@@ -11,94 +11,94 @@ Like(Site("|news.ycombinator.com|"));
 
 Rule {
   Matches {
-    Site("|*the-decoder.com*|")
+    Site("|the-decoder.com|")
   },
   Matches {
-    Site("|*towardsdatascience.com*|")
+    Site("|towardsdatascience.com|")
   },
   Matches {
-    Site("|*futurity.org*|")
+    Site("|futurity.org|")
   },
   Matches {
-    Site("|*livescience.com*|")
+    Site("|livescience.com|")
   },
   Matches {
-    Site("|*scitechdaily.com*|")
+    Site("|scitechdaily.com|")
   },
   Matches {
-    Site("|*sciencealert.com*|")
+    Site("|sciencealert.com|")
   },
   Matches {
-    Site("|*quantamagazine.com*|")
+    Site("|quantamagazine.com|")
   },
   Matches {
-    Site("|*lifeboat.org*|")
+    Site("|lifeboat.org|")
   },
   Matches {
-    Site("|*iflscience.com*|")
+    Site("|iflscience.com|")
   },
   Matches {
-    Site("|*thoughtco.com*|")
+    Site("|thoughtco.com|")
   },
   Matches {
-    Site("|*pnas.org*|")
+    Site("|pnas.org|")
   },
   Matches {
-    Site("|*sci.news*|")
+    Site("|sci.news|")
   },
   Matches {
-    Site("|*news.ycombinator.com*|")
+    Site("|news.ycombinator.com|")
   },
   Matches {
-    Site("|*scantocomputer.com*|")
+    Site("|scantocomputer.com|")
   },
   Matches {
-    Site("|*wolframalpha.com*|")
+    Site("|wolframalpha.com|")
   },
   Matches {
-    Site("|*theinformation.com*|")
+    Site("|theinformation.com|")
   },
   Matches {
-    Site("|*theverge.com*|")
+    Site("|theverge.com|")
   },
   Matches {
-    Site("|*huggingface.co*|")
+    Site("|huggingface.co|")
   },
   Matches {
-    Site("|*anthropic.com*|")
+    Site("|anthropic.com|")
   },
   Matches {
-    Site("|*scienmag.com*|")
+    Site("|scienmag.com|")
   },
   Matches {
-    Site("|*mashable.com*|")
+    Site("|mashable.com|")
   },
   Matches {
-    Site("|*botany.one*|")
+    Site("|botany.one|")
   },
   Matches {
-    Site("|*techradar.com*|")
+    Site("|techradar.com|")
   },
   Matches {
-    Site("|*atlasobscura.com*|")
+    Site("|atlasobscura.com|")
   },
   Matches {
-    Site("|*techopedia.com*|")
+    Site("|techopedia.com|")
   },
   Matches {
-    Site("|*eurekalert.org*|")
+    Site("|eurekalert.org|")
   },
   Matches {
-    Site("|*cyberscoop.com*|")
+    Site("|cyberscoop.com|")
   },
   Matches {
-    Site("|*makeuseof.com*|")
+    Site("|makeuseof.com|")
   },
   Matches {
-    Site("|*futurepedia.io*|")
+    Site("|futurepedia.io|")
   },
   Matches {
-    Site("|*futurism.com*|")
+    Site("|futurism.com|")
   },
   Action(Boost(0))
 };
