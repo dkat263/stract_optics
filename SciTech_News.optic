@@ -68,7 +68,7 @@ Rule {
     Site("|anthropic.com|")
   },
   Matches {
-    Site("|scienmag.com|")
+    Site("|science.org|")
   },
   Matches {
     Site("|mashable.com|")
