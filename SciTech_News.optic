@@ -114,6 +114,6 @@ Rule {
   },
   Matches {
     Site("|encyclopedia.com|")
-  }
+  },
   Action(Boost(0))
 };
