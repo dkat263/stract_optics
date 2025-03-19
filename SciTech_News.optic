@@ -106,5 +106,8 @@ Rule {
   Matches {
     Site("|nature.com|")
   },
+  Matches {
+    Domain("|*.com|")
+  },
   Action(Boost(0))
 };
