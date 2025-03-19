@@ -107,7 +107,13 @@ Rule {
     Site("|nature.com|")
   },
   Matches {
-    Domain("|*.com|")
+    Site("|encyclopediaofmath.org|")
   },
+  Matches {
+    Site("|britannica.com|")
+  },
+  Matches {
+    Site("|encyclopedia.com|")
+  }
   Action(Boost(0))
 };
