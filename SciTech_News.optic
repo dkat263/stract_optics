@@ -70,5 +70,35 @@ Rule {
   Matches {
     Site("|*scienmag.com*|")
   },
+  Matches {
+    Site("|*mashable.com*|")
+  },
+  Matches {
+    Site("|*botany.one*|")
+  },
+  Matches {
+    Site("|*techradar.com*|")
+  },
+  Matches {
+    Site("|*atlasobscura.com*|")
+  },
+  Matches {
+    Site("|*techopedia.com*|")
+  },
+  Matches {
+    Site("|*eurekalert.org*|")
+  },
+  Matches {
+    Site("|*cyberscoop.com*|")
+  },
+  Matches {
+    Site("|*makeuseof.com*|")
+  },
+  Matches {
+    Site("|*futurepedia.io*|")
+  },
+  Matches {
+    Site("|*futurism.com*|")
+  },
   Action(Boost(1))
 };
