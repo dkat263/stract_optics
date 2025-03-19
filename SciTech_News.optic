@@ -100,5 +100,8 @@ Rule {
   Matches {
     Site("|futurism.com|")
   },
+  Matches {
+    Site("|morningchores.com|")
+  },
   Action(Boost(0))
 };
