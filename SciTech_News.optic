@@ -148,5 +148,8 @@ Rule {
   Matches {
     Site("|dailyscinews.com|")
   },
+  Matches {
+    Site("|techxplore.com|")
+  },
   Action(Boost(0))
 };
