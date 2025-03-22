@@ -151,5 +151,11 @@ Rule {
   Matches {
     Site("|techxplore.com|")
   },
+  Matches {
+    Site("|sciencex.org|")
+  },
+  Matches {
+    Site("|phys.org|")
+  },
   Action(Boost(0))
 };
