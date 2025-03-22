@@ -142,5 +142,8 @@ Rule {
   Matches {
     Site("|naturalhistory.si.edu|")
   },
+  Matches {
+    Site("|pmc.ncbi.nlm.nih.gov|")
+  },
   Action(Boost(0))
 };
