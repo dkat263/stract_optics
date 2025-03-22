@@ -157,5 +157,5 @@ Rule {
   Matches {
     Site("|phys.org|")
   },
-  Action(Boost(0))
+  Action(Boost(1))
 };
