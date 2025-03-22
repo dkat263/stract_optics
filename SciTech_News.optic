@@ -115,5 +115,32 @@ Rule {
   Matches {
     Site("|encyclopedia.com|")
   },
+  Matches {
+    Site("|earth.com|")
+  },
+  Matches {
+    Site("|hix.ai|")
+  },
+  Matches {
+    Site("|you.com|")
+  },
+  Matches {
+    Site("|worldfloraonline.org|")
+  },
+  Matches {
+    Site("|garden.org|")
+  },
+  Matches {
+    Site("|animalia.bio|")
+  },
+  Matches {
+    Site("|a-z-animals.com|")
+  },
+  Matches {
+    Site("|archive.org|")
+  },
+  Matches {
+    Site("|naturalhistory.si.edu|")
+  },
   Action(Boost(0))
 };
