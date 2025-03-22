@@ -147,6 +147,6 @@ Rule {
   },
   Matches {
     Site("|dailyscinews.com|")
-  }
+  },
   Action(Boost(0))
 };
