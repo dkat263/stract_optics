@@ -1,3 +1,5 @@
+DiscardNonMatching;
+
 Like(Site("|techspot.com|"));
 Like(Site("|techwalla.com|"));
 Like(Site("|mentalfloss.com|"));
