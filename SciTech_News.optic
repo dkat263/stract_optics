@@ -157,5 +157,8 @@ Rule {
   Matches {
     Site("|phys.org|")
   },
+  Matches {
+    Site("|allthatsinteresting.com|")
+  },
   Action(Boost(0))
 };
