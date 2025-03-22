@@ -145,5 +145,8 @@ Rule {
   Matches {
     Site("|pmc.ncbi.nlm.nih.gov|")
   },
+  Matches {
+    Site("|dailyscinews.com|")
+  }
   Action(Boost(0))
 };
