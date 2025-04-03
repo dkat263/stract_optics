@@ -160,5 +160,8 @@ Rule {
   Matches {
     Site("|allthatsinteresting.com|")
   },
+  Matches {
+    Site("|hn.algolia.com|")
+  },
   Action(Boost(0))
 };
