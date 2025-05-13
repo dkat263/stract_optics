@@ -1,11 +1,5 @@
 DiscardNonMatching;
 
-Like(Site("samaltman.com"));
-Like(Site("paulgraham.com"));
-Like(Site("ciechanow.ski"));
-Like(Site("simonwillison.net"));
-Like(Site("rachelbythebay.com"));
-
 Rule {
   Matches {
     Site("|the-decoder.com|")
