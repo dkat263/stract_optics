@@ -1,13 +1,13 @@
 DiscardNonMatching;
 
-Like(Site("|techspot.com|"));
-Like(Site("|techwalla.com|"));
-Like(Site("|mentalfloss.com|"));
-Like(Site("|atlasobscura.com|"));
-Like(Site("|pnas.org|"));
-Like(Site("|blog.ycombinator.com|"));
-Like(Site("|sci.news|"));
-Like(Site("|news.ycombinator.com|"));
+Like(Site("techspot.com"));
+Like(Site("techwalla.com"));
+Like(Site("mentalfloss.com"));
+Like(Site("atlasobscura.com"));
+Like(Site("pnas.org"));
+Like(Site("blog.ycombinator.com"));
+Like(Site("sci.news"));
+Like(Site("news.ycombinator.com"));
 
 Rule {
   Matches {
