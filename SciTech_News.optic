@@ -161,9 +161,6 @@ Rule {
     Site("|allthatsinteresting.com|")
   },
   Matches {
-    Site("|hn.algolia.com|")
-  },
-  Matches {
     Site("|thebrighterside.news|")
   },
   Action(Boost(0))
