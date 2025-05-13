@@ -154,5 +154,8 @@ Rule {
   Matches {
     Site("|techspot.com|")
   },
+  Matches {
+    Site("|thebrighterside.news|")
+  },
   Action(Boost(0))
 };
