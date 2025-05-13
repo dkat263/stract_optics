@@ -161,7 +161,7 @@ Rule {
     Site("|allthatsinteresting.com|")
   },
   Matches {
-    Site("|thebrighterside.news|")
+    Site("|techspot.com|")
   },
   Action(Boost(0))
 };
