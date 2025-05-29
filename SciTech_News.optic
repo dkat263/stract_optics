@@ -143,7 +143,7 @@ Rule {
     Site("|techxplore.com|")
   },
   Matches {
-    Site("|sciencex.org|")
+    Site("|sciencex.com|")
   },
   Matches {
     Site("|phys.org|")
@@ -156,6 +156,12 @@ Rule {
   },
   Matches {
     Site("|thebrighterside.news|")
+  },
+  Matches {
+    Site("|pcmag.com|")
+  },
+  Matches {
+    Site("|explorersweb.com|")
   },
   Action(Boost(0))
 };
