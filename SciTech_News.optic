@@ -167,4 +167,4 @@ Rule {
     Site("|mindat.org|")
   },
   Action(Boost(0))
-};;
+},;
