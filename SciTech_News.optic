@@ -153,18 +153,18 @@ Rule {
   },
   Matches {
     Site("|techspot.com|")
-  },
+  }
   Matches {
     Site("|thebrighterside.news|")
-  },
+  }
   Matches {
     Site("|archaeology.org|")
-  },
+  }
   Matches {
     Site("|explorersweb.com|")
-  },
+  }
   Matches {
     Site("|mindat.org|")
-  },
+  }
   Action(Boost(0))
-},;
+};
