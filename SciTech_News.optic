@@ -158,7 +158,7 @@ Rule {
     Site("|thebrighterside.news|")
   },
   Matches {
-    Site("|pcmag.com|")
+    Site("|archaeology.org|")
   },
   Matches {
     Site("|explorersweb.com|")
