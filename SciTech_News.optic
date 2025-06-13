@@ -163,5 +163,8 @@ Rule {
   Matches {
     Site("|explorersweb.com|")
   },
+  Matches {
+    Site("|mindat.org|")
+  },
   Action(Boost(0))
 };
