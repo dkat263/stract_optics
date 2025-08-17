@@ -174,5 +174,5 @@ Rule {
   },
   Matches {
     Site("|encyclopedia.pub|")
-  }
+  },
 };
