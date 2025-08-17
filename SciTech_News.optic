@@ -175,4 +175,6 @@ Rule {
   Matches {
     Site("|encyclopedia.pub|")
   },
+  Action(Boost(0)) {
+  }
 };
