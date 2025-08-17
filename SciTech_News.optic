@@ -104,7 +104,7 @@ Rule {
     Site("|britannica.com|")
   },
   Matches {
-    Site("|encyclopedia.com|")
+    Domain("|encyclopedia.com|")
   },
   Matches {
     Site("|earth.com|")
