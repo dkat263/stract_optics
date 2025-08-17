@@ -178,5 +178,14 @@ Rule {
   Matches {
     Site("|future-of-computing.com|")
   },
+  Matches {
+    Domain(".ai|")
+  },
+  Matches {
+    Domain(".io|")
+  },
+  Matches {
+    Domain(".pub|")
+  },
   Action(Boost(0))
 }
