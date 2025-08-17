@@ -206,5 +206,5 @@ Rule {
     Domain(".app|")
   },
   Action(Boost(0)) {
-  },
+  }
 }
