@@ -176,5 +176,5 @@ Rule {
     Site("|encyclopedia.pub|")
   },
   Action(Boost(0)) {
-  }
+  },
 };
