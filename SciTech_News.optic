@@ -205,6 +205,5 @@ Rule {
   Matches {
     Domain(".app|")
   },
-  Action(Boost(0)) {
-  }
+  Action(Boost(0))
 }
