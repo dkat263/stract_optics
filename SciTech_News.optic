@@ -166,5 +166,8 @@ Rule {
   Matches {
     Site("|mindat.org|")
   },
+  Matches {
+    Site("|advancedsciencenews.com|")
+  },
   Action(Boost(0))
 };
