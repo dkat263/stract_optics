@@ -179,31 +179,31 @@ Rule {
     Site("|future-of-computing.com|")
   },
   Matches {
-    Domain("|.ai|")
+    Domain(".ai|")
   },
   Matches {
-    Domain("|.io|")
+    Domain(".io|")
   },
   Matches {
-    Domain("|.pub|")
+    Domain(".pub|")
   },
   Matches {
-    Domain("|.tech|")
+    Domain(".tech|")
   },
   Matches {
-    Domain("|.it|")
+    Domain(".it|")
   },
   Matches {
-    Domain("|.edu|")
+    Domain(".edu|")
   },
   Matches {
-    Domain("|.one|")
+    Domain(".one|")
   },
   Matches {
-    Domain("|.cloud|")
+    Domain(".cloud|")
   },
   Matches {
-    Domain("|.app|")
+    Domain(".app|")
   },
   Action(Boost(0))
 }
