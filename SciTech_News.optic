@@ -169,5 +169,11 @@ Rule {
   Matches {
     Site("|advancedsciencenews.com|")
   },
+  Matches {
+    Site("|technology.org|")
+  },
+  Matches {
+    Site("|encyclopedia.pub|")
+  },
   Action(Boost(0))
 };
