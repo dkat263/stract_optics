@@ -220,5 +220,11 @@ Rule {
   Matches {
     Domain(".rs|")
   },
+  Matches {
+    Domain(".cloud|")
+  },
+  Matches {
+    Domain(".app|")
+  },
   Action(Boost(0))
 }
