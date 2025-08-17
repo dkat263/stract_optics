@@ -175,6 +175,5 @@ Rule {
   Matches {
     Site("|encyclopedia.pub|")
   },
-  Action(Boost(0)) {
-  },
+  Action(Boost(0))
 };
