@@ -161,7 +161,7 @@ Rule {
     Site("|archaeology.org|")
   },
   Matches {
-    Site("|explorersweb.com|")
+    Domain("|explorersweb.com|")
   },
   Matches {
     Site("|mindat.org|")
@@ -173,7 +173,7 @@ Rule {
     Site("|technology.org|")
   },
   Matches {
-    Site("|encyclopedia.pub|")
+    Domain("|encyclopedia.pub|")
   },
   Action(Boost(0))
 }
