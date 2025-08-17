@@ -197,28 +197,7 @@ Rule {
     Domain(".edu|")
   },
   Matches {
-    Domain(".co|")
-  },
-  Matches {
-    Domain(".us|")
-  },
-  Matches {
     Domain(".one|")
-  },
-  Matches {
-    Domain(".gl|")
-  },
-  Matches {
-    Domain(".se|")
-  },
-  Matches {
-    Domain(".to|")
-  },
-  Matches {
-    Domain(".li|")
-  },
-  Matches {
-    Domain(".rs|")
   },
   Matches {
     Domain(".cloud|")
