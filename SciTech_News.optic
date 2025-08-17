@@ -197,7 +197,7 @@ Rule {
     Domain(".edu|")
   },
   Matches {
-    Domain(".com|")
+    Site(".com|")
   },
   Matches {
     Domain(".co|")
@@ -212,7 +212,7 @@ Rule {
     Domain(".gl|")
   },
   Matches {
-    Domain(".net|")
+    Site(".net|")
   },
   Matches {
     Domain(".se|")
