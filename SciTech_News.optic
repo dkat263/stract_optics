@@ -182,7 +182,7 @@ Rule {
     Domain(".ai|")
   },
   Matches {
-    Domain(".io|")
+    Domain("|.io|")
   },
   Matches {
     Domain(".pub|")
