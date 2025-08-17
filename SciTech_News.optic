@@ -196,5 +196,35 @@ Rule {
   Matches {
     Domain(".edu|")
   },
+  Matches {
+    Domain(".com|")
+  },
+  Matches {
+    Domain(".co|")
+  },
+  Matches {
+    Domain(".us|")
+  },
+  Matches {
+    Domain(".one|")
+  },
+  Matches {
+    Domain(".gl|")
+  },
+  Matches {
+    Domain(".net|")
+  },
+  Matches {
+    Domain(".se|")
+  },
+  Matches {
+    Domain(".to|")
+  },
+  Matches {
+    Domain(".li|")
+  },
+  Matches {
+    Domain(".rs|")
+  },
   Action(Boost(0))
 }
