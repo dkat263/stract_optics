@@ -89,7 +89,7 @@ Rule {
     Site("|futurepedia.io|")
   },
   Matches {
-    Site("|futurism.com|")
+    Domain("|futurism.com|")
   },
   Matches {
     Site("|morningchores.com|")
@@ -110,10 +110,10 @@ Rule {
     Site("|earth.com|")
   },
   Matches {
-    Site("|hix.ai|")
+    Domain("|hix.ai|")
   },
   Matches {
-    Site("|you.com|")
+    Domain("|you.com|")
   },
   Matches {
     Site("|worldfloraonline.org|")
@@ -161,7 +161,7 @@ Rule {
     Site("|archaeology.org|")
   },
   Matches {
-    Domain("|explorersweb.com|")
+    Site("|explorersweb.com|")
   },
   Matches {
     Site("|mindat.org|")
@@ -173,7 +173,7 @@ Rule {
     Site("|technology.org|")
   },
   Matches {
-    Domain("|encyclopedia.pub|")
+    Site("|encyclopedia.pub|")
   },
   Action(Boost(0))
 }
